@@ -24,5 +24,6 @@ const gates = {
     passion: 'doing everything',
 
 }
+//ekhane heroalam and gates holo(this) ..(this) parameter hisebe jacche...
 kibria.treatDey.call(heroAlam, 500);
 kibria.treatDey.call(gates, 1000)
